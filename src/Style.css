@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url('yagis-miktari.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

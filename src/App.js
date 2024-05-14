@@ -1,6 +1,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 import "./App.css";
+import './Style.css';
 import City from "./City";
 function App() {
   const key = "7d2c17d647fcc6d35cdfd7783162a49b";
